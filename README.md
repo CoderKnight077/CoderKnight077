@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently learning Web Development.<br><br>💻 I'm comfortable to code in Javascript .<br><br>🛠️ I prefer building web applications using the MERN stack, but I also like to try and explore other technologies according to the needs.<br><br>☁️ Passionate About: MERN STACK, Web Security, and Rapid Changing Technology.<br><br>I enjoy experimenting with different tools and adapting to project needs, always striving for efficiency and innovation. Let’s connect and build something great! 🚀
+📚 I'm currently learning Front-end Development.<br><br>💻 I'm comfortable to code in Javascript .<br><br>🛠️ I prefer building web applications using the MERN stack, but I also like to try and explore other technologies according to the needs.<br><br>☁️ Passionate About: MERN STACK, Web Security, and Rapid Changing Technology.<br><br>I enjoy experimenting with different tools and adapting to project needs, always striving for efficiency and innovation. Let’s connect and build something great! 🚀
 
 
 ## 🌐 Socials:
